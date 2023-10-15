@@ -1,0 +1,56 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-10-15 19:54+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: .\MY_SITE\settings.py:187
+msgid "English"
+msgstr ""
+
+#: .\MY_SITE\settings.py:188
+msgid "Arabic"
+msgstr ""
+
+#: .\packageapp\serializers.py:39
+msgid "Already Added"
+msgstr ""
+
+#: .\packageapp\serializers.py:83
+#, fuzzy
+#| msgid "You Don't Have Permission"
+msgid "You don't have permission for this action"
+msgstr "" 
+
+#: .\packageapp\serializers.py:86
+msgid "Nothing is selected"
+msgstr ""
+
+#: .\packageapp\views.py:59
+msgid "Subscription is Completed"
+msgstr ""
+
+#: .\userapp\admin.py:22
+msgid "Personal info"
+msgstr ""
+
+#: .\userapp\admin.py:33
+msgid "Permissions"
+msgstr ""
+
+#: .\userapp\admin.py:44
+msgid "Important dates"
+msgstr ""

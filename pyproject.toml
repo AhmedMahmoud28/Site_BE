@@ -1,0 +1,7 @@
+[tool.isort]
+profile = "black"
+skip = ["migrations", ".gitignore", ]
+
+[tool.black]
+line-length = 100
+exclude = "migrations"
